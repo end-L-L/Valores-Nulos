@@ -47,7 +47,6 @@ minimum_maximum_nights                          0
 maximum_maximum_nights                          0
 minimum_nights_avg_ntm                          0
 maximum_nights_avg_ntm                          0
-calendar_updated                                0
 has_availability                                0
 availability_30                                 0
 availability_60                                 0
